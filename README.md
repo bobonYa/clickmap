@@ -2,7 +2,7 @@
 
 ```
 git clone https://github.com/bobonYa/clickmap
-
+cd clickmap
 cp .env.example .env
 ```
 
